@@ -20,6 +20,8 @@ CSS → Styling & layout
 
 JavaScript (ES6) → Game logic and score tracking
 
+## 📸 Screenshot
+![Game Screenshot](./images/rock-papper-scissor.jpg)
 
 
 🎮 How to Play
